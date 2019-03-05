@@ -4,3 +4,4 @@ echo "Hey foxs done some changes pull it man now"
 #read name
 #echo $name
 echo "Today is tuesday"
+echo "done some more changes"
